@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "O4o3ywp1vXo9eQEnCcZ/Vchr7Bdfzr6Es+l5mv1XWWnNIZcKlLbkw8PWk4vYxeCMGaZ41y5c/Eoy1biJXp9pdg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ritika\\source\\repos\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ritika\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512"
+  ],
+  "logs": []
+}
